@@ -1,3 +1,5 @@
+//print n natural numbers
+
 #include <iostream>
 using namespace std;
 int main() {
